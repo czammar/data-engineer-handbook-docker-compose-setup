@@ -1,0 +1,5 @@
+chispa
+pytest
+pyspark
+pyspark[sql]
+psycopg2
